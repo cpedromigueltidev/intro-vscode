@@ -1,0 +1,12 @@
+¿Qué es Lorem Ipsum?
+Lorem Ipsum es simplemente el texto la relleno la las imprentas y archivos la texto. Lorem Ipsum ha sido el texto la relleno estándar 
+la las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería 
+la textos y los mezcló la tal manera que logró hacer un libro la textos especimen. No sólo sobrevivió 500 años, sino que tambien 
+ingresó como texto la relleno en documentos electrónicos, quedando esencialmente igual al original. Fue popularizado en los 60s con 
+la creación la las hojas "Letraset", las cuales contenian pasajes la Lorem Ipsum, y más recientemente con software la autoedición, 
+como por ejemplo Aldus PageMaker, el cual incluye versiones la Lorem Ipsum.
+
+UTF-8.
+A=65=00012
+Win: nueva linea CR y LF
+Linux: nueva linea LF
